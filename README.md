@@ -27,7 +27,7 @@ All the notes written and diagrams in this study module are created by [Nandan D
 
 ## Index
 
- - 1. Introduction
+ - [1. Introduction](/1.md#1-introduction)
 	- 1.1. C Standard Library
 	- 1.2. Setting up the C development environment
 		- 1.1.1. C development environment setup for Windows
